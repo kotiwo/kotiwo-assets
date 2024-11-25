@@ -1,0 +1,591 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 555.319 603.887"
+  width="740.425"
+  height="805.183"
+  class="c-firefly__img"
+  style="isolation: isolate"
+>
+  <mask id="firefly_svg___mask_93vqo8OyOf4HWxnplN623I4rbPaw1mBk">
+    <path
+      d="M228.731 380.651c-2.426 12.007 294.362 56.282 306.638 55.449 18.095-1.228 19.33-54.543.983-74.363-18.348-19.82-87.675-54.356-149.869-61.963-25.188-3.081-104.191-20.167-129.824 4.278-23.035 21.968-23.307 53.728-27.928 76.599z"
+      id="firefly_svg__wing_5"
+      fill="#FFF"
+      stroke="none"
+    ></path>
+  </mask>
+  <path
+    d="M228.731 380.651c-2.426 12.007 294.362 56.282 306.638 55.449 18.095-1.228 19.33-54.543.983-74.363-18.348-19.82-87.675-54.356-149.869-61.963-25.188-3.081-104.191-20.167-129.824 4.278-23.035 21.968-23.307 53.728-27.928 76.599z"
+    id="firefly_svg__wing_5"
+    fill="rgb(49, 41, 34)"
+    mask="url(#firefly_svg___mask_93vqo8OyOf4HWxnplN623I4rbPaw1mBk)"
+    vector-effect="non-scaling-stroke"
+    stroke-width="5"
+    stroke="#000"
+    stroke-linejoin="miter"
+    stroke-linecap="square"
+    stroke-miterlimit="1"
+  ></path>
+  <mask id="firefly_svg___mask_KkQZxVK7HywERmDcLOqcgIdRNxAw3ooG">
+    <path
+      d="M327.868 388.331c1.612 12.144-297.484 36.326-309.676 34.668-17.971-2.445-15.613-55.721 4.028-74.261 19.641-18.539 91.137-48.327 153.702-51.727 25.339-1.377 105.313-13.102 129.241 13.014 21.504 23.47 19.636 55.176 22.705 78.306z"
+      id="firefly_svg__wing_6"
+      fill="#FFF"
+      stroke="none"
+    ></path>
+  </mask>
+  <path
+    d="M327.868 388.331c1.612 12.144-297.484 36.326-309.676 34.668-17.971-2.445-15.613-55.721 4.028-74.261 19.641-18.539 91.137-48.327 153.702-51.727 25.339-1.377 105.313-13.102 129.241 13.014 21.504 23.47 19.636 55.176 22.705 78.306z"
+    id="firefly_svg__wing_6"
+    fill="rgb(49, 41, 34)"
+    mask="url(#firefly_svg___mask_KkQZxVK7HywERmDcLOqcgIdRNxAw3ooG)"
+    vector-effect="non-scaling-stroke"
+    stroke-width="5"
+    stroke="#000"
+    stroke-linejoin="miter"
+    stroke-linecap="square"
+    stroke-miterlimit="1"
+  ></path>
+  <g id="firefly_svg__wings_down">
+    <mask id="firefly_svg___mask_bPn6t70tB3ZvyyBIOUjBT17Jbjhnc6xy">
+      <path
+        d="M46.575 527.338c-16.274-21.332 36.594-133.404 87.681-177.01 39.221-33.477 161.669-87.44 170.791-60.308 19.664 58.487-74.088 110.424-96.697 143.373-28.514 41.554-130.112 135.45-161.775 93.945z"
+        id="firefly_svg__wing_4"
+        fill="#FFF"
+        stroke="none"
+      ></path>
+    </mask>
+    <path
+      d="M46.575 527.338c-16.274-21.332 36.594-133.404 87.681-177.01 39.221-33.477 161.669-87.44 170.791-60.308 19.664 58.487-74.088 110.424-96.697 143.373-28.514 41.554-130.112 135.45-161.775 93.945z"
+      id="firefly_svg__wing_4"
+      fill="rgba(251, 246, 244, 0.5)"
+      mask="url(#firefly_svg___mask_bPn6t70tB3ZvyyBIOUjBT17Jbjhnc6xy)"
+      vector-effect="non-scaling-stroke"
+      stroke-width="5"
+      stroke="#000"
+      stroke-linejoin="miter"
+      stroke-linecap="square"
+      stroke-miterlimit="1"
+    ></path>
+    <clipPath id="firefly_svg___clipPath_rKeqoaddmnMCv1mMdNts5NOQIiTGwr1m">
+      <path
+        d="M46.575 527.338c-16.274-21.332 36.594-133.404 87.681-177.01 39.221-33.477 161.669-87.44 170.791-60.308 19.664 58.487-74.088 110.424-96.697 143.373-28.514 41.554-130.112 135.45-161.775 93.945z"
+        id="firefly_svg__wing_4"
+        fill="#FFF"
+        mask="url(#firefly_svg___mask_bPn6t70tB3ZvyyBIOUjBT17Jbjhnc6xy)"
+        vector-effect="non-scaling-stroke"
+        stroke-width="5"
+        stroke="#000"
+        stroke-linejoin="miter"
+        stroke-linecap="square"
+        stroke-miterlimit="1"
+      ></path>
+    </clipPath>
+    <g
+      clip-path="url(#firefly_svg___clipPath_rKeqoaddmnMCv1mMdNts5NOQIiTGwr1m)"
+    >
+      <path
+        d="M317.68 272.198L187.665 384.093q-11.366 2.218-17.569 1.571c-17.057-1.778-19.682-29.145-37.48-27.604q-10.102.875-24.682 13.349l3.171 2.718q12.576-11.084 21.392-11.665c15.799-1.041 16.434 22.956 30.817 26.534q6.658 1.656 19.367.534c-27.945 21.529-48.311 41.18-61.157 58.892q-8.689.037-13.138-1.401c-8.461-2.735-9.98-14.024-18.78-15.986q-9.467-2.111-25.162 7.873l-2.718 8.608q15.251-13.34 25.552-11.515c9.231 1.636 10.261 14.351 19.245 16.607q2.975.747 8.659.797L41.34 537.213l4.077 4.077c50.294-56.503 87.476-97.057 111.486-121.722q-1.008 12.388-.485 19.089c.836 10.711 7.82 18.709 7.327 29.542q-.565 12.424-12.775 32.32l16.762-18.574q1.755-10.533 1.626-16.302c-.244-10.943-6.773-19.037-7.733-29.893q-.69-7.795.671-22.21l160.821-140.436-5.437-.906z"
+        id="firefly_svg__wing_path_4"
+        fill="#000"
+      ></path>
+    </g>
+    <path
+      d="M46.575 527.338c-16.274-21.332 36.594-133.404 87.681-177.01 39.221-33.477 161.669-87.44 170.791-60.308 19.664 58.487-74.088 110.424-96.697 143.373-28.514 41.554-130.112 135.45-161.775 93.945z"
+      id="firefly_svg__wing_4"
+      fill="transparent"
+      mask="url(#firefly_svg___mask_bPn6t70tB3ZvyyBIOUjBT17Jbjhnc6xy)"
+      vector-effect="non-scaling-stroke"
+      stroke-width="5"
+      stroke="#000"
+      stroke-linejoin="miter"
+      stroke-linecap="square"
+      stroke-miterlimit="1"
+    ></path>
+    <mask id="firefly_svg___mask_KVu5audtx7Z4lxUOqauhJsYJ13s6QIEg">
+      <path
+        d="M519.774 526.338c16.274-21.332-36.594-133.404-87.681-177.01-39.22-33.477-161.668-87.44-170.791-60.308-19.664 58.487 74.088 110.424 96.697 143.373 28.514 41.554 130.112 135.45 161.775 93.945z"
+        id="firefly_svg__wing_1"
+        fill="#FFF"
+        stroke="none"
+      ></path>
+    </mask>
+    <path
+      d="M519.774 526.338c16.274-21.332-36.594-133.404-87.681-177.01-39.22-33.477-161.668-87.44-170.791-60.308-19.664 58.487 74.088 110.424 96.697 143.373 28.514 41.554 130.112 135.45 161.775 93.945z"
+      id="firefly_svg__wing_1"
+      fill="rgba(251, 246, 244, 0.5)"
+      mask="url(#firefly_svg___mask_KVu5audtx7Z4lxUOqauhJsYJ13s6QIEg)"
+      vector-effect="non-scaling-stroke"
+      stroke-width="5"
+      stroke="#000"
+      stroke-linejoin="miter"
+      stroke-linecap="square"
+      stroke-miterlimit="1"
+    ></path>
+    <clipPath id="firefly_svg___clipPath_Kvgwkf710fAiqb8MEJzaqjNrUOMX0RDU">
+      <path
+        d="M519.774 526.338c16.274-21.332-36.594-133.404-87.681-177.01-39.22-33.477-161.668-87.44-170.791-60.308-19.664 58.487 74.088 110.424 96.697 143.373 28.514 41.554 130.112 135.45 161.775 93.945z"
+        id="firefly_svg__wing_1"
+        fill="rgba(251, 246, 244, 0.5)"
+      ></path>
+      <path
+        d="M519.774 526.338c16.274-21.332-36.594-133.404-87.681-177.01-39.22-33.477-161.668-87.44-170.791-60.308-19.664 58.487 74.088 110.424 96.697 143.373 28.514 41.554 130.112 135.45 161.775 93.945z"
+        id="firefly_svg__wing_1"
+        fill="rgba(251, 246, 244, 0.5)"
+        mask="url(#firefly_svg___mask_KVu5audtx7Z4lxUOqauhJsYJ13s6QIEg)"
+        vector-effect="non-scaling-stroke"
+        stroke-width="5"
+        stroke="#000"
+        stroke-linejoin="miter"
+        stroke-linecap="square"
+        stroke-miterlimit="1"
+      ></path>
+    </clipPath>
+    <g
+      clip-path="url(#firefly_svg___clipPath_Kvgwkf710fAiqb8MEJzaqjNrUOMX0RDU)"
+    >
+      <path
+        d="M248.669 271.198l130.016 111.895q11.365 2.218 17.568 1.571c17.057-1.778 19.682-29.145 37.48-27.604q10.102.875 24.682 13.349l-3.171 2.718q-12.576-11.084-21.392-11.665c-15.799-1.041-16.434 22.956-30.817 26.534q-6.658 1.656-19.367.534c27.945 21.529 48.311 41.18 61.157 58.892q8.689.037 13.138-1.401c8.461-2.735 9.98-14.024 18.78-15.986q9.467-2.111 25.162 7.873l2.718 8.608q-15.251-13.34-25.552-11.515c-9.231 1.636-10.261 14.351-19.245 16.607q-2.975.747-8.659.797l73.842 83.808-4.077 4.077c-50.294-56.503-87.476-97.057-111.486-121.722q1.008 12.388.485 19.089c-.836 10.711-7.82 18.709-7.327 29.542q.566 12.424 12.775 32.32l-16.762-18.574q-1.754-10.533-1.626-16.302c.244-10.943 6.773-19.037 7.733-29.893q.69-7.795-.671-22.21l-160.82-140.436 5.436-.906z"
+        id="firefly_svg__wing_path_1"
+        fill="#000"
+      ></path>
+    </g>
+    <path
+      d="M519.774 526.338c16.274-21.332-36.594-133.404-87.681-177.01-39.22-33.477-161.668-87.44-170.791-60.308-19.664 58.487 74.088 110.424 96.697 143.373 28.514 41.554 130.112 135.45 161.775 93.945z"
+      id="firefly_svg__wing_1"
+      fill="transparent"
+      mask="url(#firefly_svg___mask_KVu5audtx7Z4lxUOqauhJsYJ13s6QIEg)"
+      vector-effect="non-scaling-stroke"
+      stroke-width="5"
+      stroke="#000"
+      stroke-linejoin="miter"
+      stroke-linecap="square"
+      stroke-miterlimit="1"
+    ></path>
+  </g>
+  <g id="firefly_svg__wings_up">
+    <mask id="firefly_svg___mask_b3qLYYkQXJmCdiGY3mIIjMh79rVBbdR9">
+      <path
+        d="M24.335 243.047c16.43-21.211 138.328 1.061 193.604 39.218 42.436 29.294 126.07 133.749 102.196 149.541-51.464 34.042-125.761-43.202-163.416-56.579-47.489-16.871-164.352-90.909-132.384-132.18z"
+        id="firefly_svg__wing_3"
+        fill="rgba(251, 246, 244, 0.5)"
+        stroke="none"
+      ></path>
+    </mask>
+    <path
+      d="M24.335 243.047c16.43-21.211 138.328 1.061 193.604 39.218 42.436 29.294 126.07 133.749 102.196 149.541-51.464 34.042-125.761-43.202-163.416-56.579-47.489-16.871-164.352-90.909-132.384-132.18z"
+      id="firefly_svg__wing_3"
+      fill="rgba(251, 246, 244, 0.5)"
+    ></path>
+    <path
+      d="M24.335 243.047c16.43-21.211 138.328 1.061 193.604 39.218 42.436 29.294 126.07 133.749 102.196 149.541-51.464 34.042-125.761-43.202-163.416-56.579-47.489-16.871-164.352-90.909-132.384-132.18z"
+      id="firefly_svg__wing_3"
+      fill="rgba(251, 246, 244, 0.5)"
+      mask="url(#firefly_svg___mask_b3qLYYkQXJmCdiGY3mIIjMh79rVBbdR9)"
+      vector-effect="non-scaling-stroke"
+      stroke-width="5"
+      stroke="#000"
+      stroke-linejoin="miter"
+      stroke-linecap="square"
+      stroke-miterlimit="1"
+    ></path>
+    <clipPath id="firefly_svg___clipPath_u54t3JyJwqKjdHFSUdOADbkfzjdgWCLM">
+      <path
+        d="M24.335 243.047c16.43-21.211 138.328 1.061 193.604 39.218 42.436 29.294 126.07 133.749 102.196 149.541-51.464 34.042-125.761-43.202-163.416-56.579-47.489-16.871-164.352-90.909-132.384-132.18z"
+        id="firefly_svg__wing_3"
+        fill="rgba(251, 246, 244, 0.5)"
+      ></path>
+      <path
+        d="M24.335 243.047c16.43-21.211 138.328 1.061 193.604 39.218 42.436 29.294 126.07 133.749 102.196 149.541-51.464 34.042-125.761-43.202-163.416-56.579-47.489-16.871-164.352-90.909-132.384-132.18z"
+        id="firefly_svg__wing_3"
+        fill="rgba(251, 246, 244, 0.5)"
+        mask="url(#firefly_svg___mask_b3qLYYkQXJmCdiGY3mIIjMh79rVBbdR9)"
+        vector-effect="non-scaling-stroke"
+        stroke-width="5"
+        stroke="#000"
+        stroke-linejoin="miter"
+        stroke-linecap="square"
+        stroke-miterlimit="1"
+      ></path>
+    </clipPath>
+    <g
+      clip-path="url(#firefly_svg___clipPath_u54t3JyJwqKjdHFSUdOADbkfzjdgWCLM)"
+    >
+      <path
+        d="M340.606 439.433L199.042 342.56q-5.065-10.413-6.035-16.573c-2.668-16.941 23.104-26.515 17.039-43.318q-3.444-9.538-19.247-20.42l-1.812 3.763q13.945 9.304 16.774 17.674c5.068 14.999-17.959 21.784-17.718 36.603q.112 6.86 4.464 18.853c-27.991-21.47-52.218-36.098-72.637-43.957q-2.271-8.388-2.025-13.057c.468-8.88 10.986-13.251 10.62-22.259q-.395-9.691-14.079-22.291l-9.017-.414q16.813 11.308 17.698 21.732c.793 9.341-11.23 13.606-11.1 22.869q.043 3.067 1.456 8.572l-99.977-49.809-2.892 4.988c67.536 34.074 116.287 59.578 146.296 76.439q-12.231 2.211-18.572 4.439c-10.135 3.563-16.069 12.368-26.664 14.677q-12.152 2.648-34.518-4.035l22.259 11.422q10.63-1.012 16.173-2.62c10.512-3.05 16.655-11.44 26.899-15.159q7.355-2.671 21.636-5.063l177.065 119.303-.522-5.486z"
+        id="firefly_svg__wing_path_3"
+        fill="#000"
+      ></path>
+    </g>
+    <path
+      d="M24.335 243.047c16.43-21.211 138.328 1.061 193.604 39.218 42.436 29.294 126.07 133.749 102.196 149.541-51.464 34.042-125.761-43.202-163.416-56.579-47.489-16.871-164.352-90.909-132.384-132.18z"
+      id="firefly_svg__wing_3"
+      fill="transparent"
+      mask="url(#firefly_svg___mask_b3qLYYkQXJmCdiGY3mIIjMh79rVBbdR9)"
+      vector-effect="non-scaling-stroke"
+      stroke-width="5"
+      stroke="#000"
+      stroke-linejoin="miter"
+      stroke-linecap="square"
+      stroke-miterlimit="1"
+    ></path>
+    <mask id="firefly_svg___mask_mby5VPORdKTGqF34iHJdHwZ5yGJgxHAx">
+      <path
+        d="M534.251 233.047c-16.43-21.211-138.328 1.061-193.604 39.218-42.436 29.294-126.071 133.749-102.197 149.541 51.465 34.042 125.762-43.202 163.417-56.579 47.489-16.871 164.352-90.909 132.384-132.18z"
+        id="firefly_svg__wing_2"
+        fill="rgba(251, 246, 244, 0.5)"
+        stroke="none"
+      ></path>
+    </mask>
+    <path
+      d="M534.251 233.047c-16.43-21.211-138.328 1.061-193.604 39.218-42.436 29.294-126.071 133.749-102.197 149.541 51.465 34.042 125.762-43.202 163.417-56.579 47.489-16.871 164.352-90.909 132.384-132.18z"
+      id="firefly_svg__wing_2"
+      fill="rgba(251, 246, 244, 0.5)"
+    ></path>
+    <path
+      d="M534.251 233.047c-16.43-21.211-138.328 1.061-193.604 39.218-42.436 29.294-126.071 133.749-102.197 149.541 51.465 34.042 125.762-43.202 163.417-56.579 47.489-16.871 164.352-90.909 132.384-132.18z"
+      id="firefly_svg__wing_2"
+      fill="rgba(251, 246, 244, 0.5)"
+      mask="url(#firefly_svg___mask_mby5VPORdKTGqF34iHJdHwZ5yGJgxHAx)"
+      vector-effect="non-scaling-stroke"
+      stroke-width="5"
+      stroke="#000"
+      stroke-linejoin="miter"
+      stroke-linecap="square"
+      stroke-miterlimit="1"
+    ></path>
+    <clipPath id="firefly_svg___clipPath_kAQBmA69kfRz0DVfctqKa5inqW8YbFxC">
+      <path
+        d="M534.251 233.047c-16.43-21.211-138.328 1.061-193.604 39.218-42.436 29.294-126.071 133.749-102.197 149.541 51.465 34.042 125.762-43.202 163.417-56.579 47.489-16.871 164.352-90.909 132.384-132.18z"
+        id="firefly_svg__wing_2"
+        fill="rgba(251, 246, 244, 0.5)"
+      ></path>
+      <path
+        d="M534.251 233.047c-16.43-21.211-138.328 1.061-193.604 39.218-42.436 29.294-126.071 133.749-102.197 149.541 51.465 34.042 125.762-43.202 163.417-56.579 47.489-16.871 164.352-90.909 132.384-132.18z"
+        id="firefly_svg__wing_2"
+        fill="rgba(251, 246, 244, 0.5)"
+        mask="url(#firefly_svg___mask_mby5VPORdKTGqF34iHJdHwZ5yGJgxHAx)"
+        vector-effect="non-scaling-stroke"
+        stroke-width="5"
+        stroke="#000"
+        stroke-linejoin="miter"
+        stroke-linecap="square"
+        stroke-miterlimit="1"
+      ></path>
+    </clipPath>
+    <g
+      clip-path="url(#firefly_svg___clipPath_kAQBmA69kfRz0DVfctqKa5inqW8YbFxC)"
+    >
+      <path
+        d="M217.98 429.433l141.564-96.873q5.065-10.413 6.035-16.573c2.667-16.941-23.105-26.515-17.039-43.318q3.443-9.538 19.247-20.42l1.812 3.763q-13.945 9.304-16.774 17.674c-5.068 14.999 17.959 21.784 17.718 36.603q-.112 6.86-4.464 18.853c27.991-21.47 52.217-36.098 72.637-43.957q2.27-8.388 2.025-13.057c-.468-8.88-10.987-13.251-10.62-22.259q.394-9.691 14.079-22.291l9.017-.414q-16.813 11.308-17.698 21.732c-.793 9.341 11.23 13.606 11.1 22.869q-.043 3.067-1.457 8.572l99.978-49.809 2.891 4.988c-67.535 34.074-116.286 59.578-146.295 76.439q12.23 2.211 18.571 4.439c10.136 3.563 16.07 12.368 26.665 14.677q12.151 2.648 34.518-4.035l-22.259 11.422q-10.631-1.012-16.173-2.62c-10.512-3.05-16.655-11.44-26.899-15.159q-7.356-2.671-21.636-5.063L217.458 434.919l.522-5.486z"
+        id="firefly_svg__wing_path_2"
+        fill="#000"
+      ></path>
+    </g>
+    <path
+      d="M534.251 233.047c-16.43-21.211-138.328 1.061-193.604 39.218-42.436 29.294-126.071 133.749-102.197 149.541 51.465 34.042 125.762-43.202 163.417-56.579 47.489-16.871 164.352-90.909 132.384-132.18z"
+      id="firefly_svg__wing_2"
+      fill="transparent"
+      mask="url(#firefly_svg___mask_mby5VPORdKTGqF34iHJdHwZ5yGJgxHAx)"
+      vector-effect="non-scaling-stroke"
+      stroke-width="5"
+      stroke="#000"
+      stroke-linejoin="miter"
+      stroke-linecap="square"
+      stroke-miterlimit="1"
+    ></path>
+  </g>
+  <mask id="firefly_svg___mask_zjIGsRhvs4o09AtKv7XaoMDpnIudNMQx">
+    <path
+      d="M172.95 291.157q-13.209 98.465-4.803 150.098c10.938 67.193 30.225 154.754 108.07 156.102 77.047 1.333 92.803-86.089 114.074-150.098q17.806-53.579 7.205-158.503l-224.546 2.401z"
+      id="firefly_svg__body_1"
+      fill="#fff"
+      stroke="none"
+    ></path>
+  </mask>
+  <path
+    d="M172.95 291.157q-13.209 98.465-4.803 150.098c10.938 67.193 30.225 154.754 108.07 156.102 77.047 1.333 92.803-86.089 114.074-150.098q17.806-53.579 7.205-158.503l-224.546 2.401z"
+    id="firefly_svg__body_1"
+    fill="rgb(255, 221, 162)"
+    mask="url(#firefly_svg___mask_zjIGsRhvs4o09AtKv7XaoMDpnIudNMQx)"
+    vector-effect="non-scaling-stroke"
+    stroke-width="7"
+    stroke="#000"
+    stroke-linejoin="miter"
+    stroke-linecap="square"
+    stroke-miterlimit="1"
+  ></path>
+  <clipPath id="firefly_svg___clipPath_2KnQfJXQ4UfnPHpTlMx3rkoZMmFlQ2Go">
+    <path
+      d="M172.95 291.157q-13.209 98.465-4.803 150.098c10.938 67.193 30.225 154.754 108.07 156.102 77.047 1.333 92.803-86.089 114.074-150.098q17.806-53.579 7.205-158.503l-224.546 2.401z"
+      id="firefly_svg__body_1"
+      fill="#FFF"
+    ></path>
+    <path
+      d="M172.95 291.157q-13.209 98.465-4.803 150.098c10.938 67.193 30.225 154.754 108.07 156.102 77.047 1.333 92.803-86.089 114.074-150.098q17.806-53.579 7.205-158.503l-224.546 2.401z"
+      id="firefly_svg__body_1"
+      fill="#FFF"
+      mask="url(#firefly_svg___mask_zjIGsRhvs4o09AtKv7XaoMDpnIudNMQx)"
+      vector-effect="non-scaling-stroke"
+      stroke-width="7"
+      stroke="#000"
+      stroke-linejoin="miter"
+      stroke-linecap="square"
+      stroke-miterlimit="1"
+    ></path>
+  </clipPath>
+  <g
+    clip-path="url(#firefly_svg___clipPath_2KnQfJXQ4UfnPHpTlMx3rkoZMmFlQ2Go)"
+    fill="#000"
+  >
+    <path
+      d="M405.258 354.901q-83.34 32.953-131.286 30.957-40.647-1.691-110.498-30.957l-.226 42.256q71.61 32.687 113.771 33.411 47.791.822 128.465-37.931l-.226-37.736z"
+      id="firefly_svg__body_stripe_2"
+    ></path>
+    <path
+      d="M405.258 438.901q-82.74 38.553-131.378 36.217-41.275-1.982-110.406-36.217l-.226 42.256q71.61 32.687 113.771 33.411 47.791.822 128.465-37.931l-.226-37.736z"
+      id="firefly_svg__body_stripe_1"
+    ></path>
+  </g>
+  <path
+    d="M172.95 291.157q-13.209 98.465-4.803 150.098c10.938 67.193 30.225 154.754 108.07 156.102 77.047 1.333 92.803-86.089 114.074-150.098q17.806-53.579 7.205-158.503l-224.546 2.401z"
+    id="firefly_svg__body_1"
+    fill="transparent"
+    mask="url(#firefly_svg___mask_zjIGsRhvs4o09AtKv7XaoMDpnIudNMQx)"
+    vector-effect="non-scaling-stroke"
+    stroke-width="7"
+    stroke="#000"
+    stroke-linejoin="miter"
+    stroke-linecap="square"
+    stroke-miterlimit="1"
+  ></path>
+  <g id="firefly_svg__head">
+    <mask id="firefly_svg___mask_kDShzHKVjJvBvqTPxdqFyrsoZEsOr7N2">
+      <path
+        d="M276.217 323.579c64.842 2.401 149.181-16.476 152.783-59.704 15.549-186.59-59.184-166.914-147.98-170.846-92.574-4.101-219.466.729-162.02 167.846 13.209 38.425 92.375 60.302 157.217 62.704z"
+        id="firefly_svg__head_1"
+        fill="#fff"
+        stroke="none"
+      ></path>
+    </mask>
+    <path
+      d="M276.217 323.579c64.842 2.401 149.181-16.476 152.783-59.704 15.549-186.59-59.184-166.914-147.98-170.846-92.574-4.101-219.466.729-162.02 167.846 13.209 38.425 92.375 60.302 157.217 62.704z"
+      id="firefly_svg__head_1"
+      fill="rgb(255, 221, 162)"
+      mask="url(#firefly_svg___mask_kDShzHKVjJvBvqTPxdqFyrsoZEsOr7N2)"
+      vector-effect="non-scaling-stroke"
+      stroke-width="7"
+      stroke="#000"
+      stroke-linejoin="miter"
+      stroke-linecap="square"
+      stroke-miterlimit="1"
+    ></path>
+    <g id="firefly_svg__eye_right">
+      <mask id="firefly_svg___mask_W5eitR2IakHlNyYjBi2FkybysfnzUyF2">
+        <ellipse
+          vector-effect="non-scaling-stroke"
+          cx="369.416"
+          cy="157.008"
+          rx="76.918"
+          ry="70.508"
+          id="firefly_svg__eye_3"
+          fill="#fff"
+          stroke="none"
+        ></ellipse>
+      </mask>
+      <ellipse
+        vector-effect="non-scaling-stroke"
+        cx="369.416"
+        cy="157.008"
+        rx="76.918"
+        ry="70.508"
+        id="firefly_svg__eye_3"
+        fill="rgb(251, 246, 244)"
+        mask="url(#firefly_svg___mask_W5eitR2IakHlNyYjBi2FkybysfnzUyF2)"
+        stroke-width="8"
+        stroke="#000"
+        stroke-linejoin="miter"
+        stroke-linecap="square"
+        stroke-miterlimit="1"
+      ></ellipse>
+      <clipPath id="firefly_svg___clipPath_HY3j6INeqKJxfMbRGXpJ5uPrL8hseO9p">
+        <ellipse
+          vector-effect="non-scaling-stroke"
+          cx="369.416"
+          cy="157.008"
+          rx="76.918"
+          ry="70.508"
+          id="firefly_svg__eye_3"
+          fill="#FFF"
+        ></ellipse>
+      </clipPath>
+      <g
+        clip-path="url(#firefly_svg___clipPath_HY3j6INeqKJxfMbRGXpJ5uPrL8hseO9p)"
+      >
+        <circle
+          vector-effect="non-scaling-stroke"
+          cx="367.54"
+          cy="170.692"
+          r="26.21"
+          id="firefly_svg__c-firefly_pupil_2"
+          fill="#000"
+        ></circle>
+        <mask id="firefly_svg___mask_Sf9O85JVkHQeBkH7EZSlLo86nHX1b2U6">
+          <path
+            d="M284.431 166.98l170.143-.834c32.865-49.482-3.266-85.613-81.735-106.756-81.621 11.706-120.532 47.024-88.408 107.59z"
+            id="firefly_svg__c-firefly_eye_lid_2"
+            fill="#fff"
+            stroke="none"
+          ></path>
+        </mask>
+        <path
+          d="M284.431 166.98l170.143-.834c32.865-49.482-3.266-85.613-81.735-106.756-81.621 11.706-120.532 47.024-88.408 107.59z"
+          id="firefly_svg__c-firefly_eye_lid_2"
+          fill="rgb(255, 221, 162)"
+          mask="url(#firefly_svg___mask_Sf9O85JVkHQeBkH7EZSlLo86nHX1b2U6)"
+          vector-effect="non-scaling-stroke"
+          stroke-width="7"
+          stroke="#000"
+          stroke-linejoin="miter"
+          stroke-linecap="square"
+          stroke-miterlimit="1"
+        ></path>
+      </g>
+      <ellipse
+        vector-effect="non-scaling-stroke"
+        cx="369.416"
+        cy="157.008"
+        rx="76.918"
+        ry="70.508"
+        id="firefly_svg__eye_3"
+        fill="transparent"
+        mask="url(#firefly_svg___mask_W5eitR2IakHlNyYjBi2FkybysfnzUyF2)"
+        stroke-width="8"
+        stroke="#000"
+        stroke-linejoin="miter"
+        stroke-linecap="square"
+        stroke-miterlimit="1"
+      ></ellipse>
+    </g>
+    <g id="firefly_svg__eye_right">
+      <mask id="firefly_svg___mask_wc8teHgkSZnEtVBtY48dRfjJotPRUHp3">
+        <ellipse
+          vector-effect="non-scaling-stroke"
+          cx="189.416"
+          cy="157.008"
+          rx="76.918"
+          ry="70.508"
+          id="firefly_svg__eye_2"
+          fill="#fff"
+          stroke="none"
+        ></ellipse>
+      </mask>
+      <ellipse
+        vector-effect="non-scaling-stroke"
+        cx="189.416"
+        cy="157.008"
+        rx="76.918"
+        ry="70.508"
+        id="firefly_svg__eye_2"
+        fill="rgb(251, 246, 244)"
+        mask="url(#firefly_svg___mask_wc8teHgkSZnEtVBtY48dRfjJotPRUHp3)"
+        stroke-width="8"
+        stroke="#000"
+        stroke-linejoin="miter"
+        stroke-linecap="square"
+        stroke-miterlimit="1"
+      ></ellipse>
+      <clipPath id="firefly_svg___clipPath_sNKzsgeZcwjeNOzQw3gKaa3JZd1QQ8ne">
+        <ellipse
+          vector-effect="non-scaling-stroke"
+          cx="189.416"
+          cy="157.008"
+          rx="76.918"
+          ry="70.508"
+          id="firefly_svg__eye_2"
+          fill="#FFF"
+        ></ellipse>
+      </clipPath>
+      <g
+        clip-path="url(#firefly_svg___clipPath_sNKzsgeZcwjeNOzQw3gKaa3JZd1QQ8ne)"
+      >
+        <circle
+          vector-effect="non-scaling-stroke"
+          cx="188.54"
+          cy="170.692"
+          r="26.21"
+          id="firefly_svg__c-firefly_pupil_2"
+          fill="#000"
+        ></circle>
+        <mask id="firefly_svg___mask_M9qEVTCHJVF0pDzE83yNBc93tRgfErxN">
+          <path
+            d="M104.431 166.98l170.143-.834c32.865-49.482-3.266-85.613-81.735-106.756-81.621 11.706-120.532 47.024-88.408 107.59z"
+            id="firefly_svg__c-firefly_eye_lid_2"
+            fill="#fff"
+            stroke="none"
+          ></path>
+        </mask>
+        <path
+          d="M104.431 166.98l170.143-.834c32.865-49.482-3.266-85.613-81.735-106.756-81.621 11.706-120.532 47.024-88.408 107.59z"
+          id="firefly_svg__c-firefly_eye_lid_2"
+          fill="rgb(255, 221, 162)"
+          mask="url(#firefly_svg___mask_M9qEVTCHJVF0pDzE83yNBc93tRgfErxN)"
+          vector-effect="non-scaling-stroke"
+          stroke-width="7"
+          stroke="#000"
+          stroke-linejoin="miter"
+          stroke-linecap="square"
+          stroke-miterlimit="1"
+        ></path>
+      </g>
+      <ellipse
+        vector-effect="non-scaling-stroke"
+        cx="189.416"
+        cy="157.008"
+        rx="76.918"
+        ry="70.508"
+        id="firefly_svg__eye_2"
+        fill="transparent"
+        mask="url(#firefly_svg___mask_wc8teHgkSZnEtVBtY48dRfjJotPRUHp3)"
+        stroke-width="8"
+        stroke="#000"
+        stroke-linejoin="miter"
+        stroke-linecap="square"
+        stroke-miterlimit="1"
+      ></ellipse>
+    </g>
+    <path
+      d="M239.649 280.368c5.468-1.684 4.679-5.891 11.264-7.798 14.591-5.45 32.68-7.859 43.324-9.012.881-1.116-.513-3.041-.547-3.789-2.716-5.125-41.58-.966-46.786 5.407q-2.344 1.753-11.143 8"
+      id="firefly_svg__mouth"
+      fill="#000"
+    ></path>
+    <path
+      d="M272.585 119.15Q230.251 6.922 170.176 6.749q-10.389-.03-29.176 4.126l-3.079 10.943q19.483-4.806 30.715-5.321c28.564-1.31 57.315 29.618 95.377 103.109l8.572-.456z"
+      id="firefly_svg__antenna_left"
+      fill="#000"
+    ></path>
+    <path
+      d="M287.726 114.154Q274.884 4.965 332.884 2.047q21.51-1.082 55.272 19.992l-2.352 7.448q-31.918-19.484-51.744-17.248c-28.367 3.2-41.554 37.314-39.592 102.312l-6.742-.397z"
+      id="firefly_svg__antenna_right"
+      fill="#000"
+    ></path>
+    <ellipse
+      vector-effect="non-scaling-stroke"
+      cx="383.249"
+      cy="26.825"
+      rx="11.05"
+      ry="18.825"
+      id="firefly_svg__antenna_right_end"
+      fill="#000"
+    ></ellipse>
+    <ellipse
+      vector-effect="non-scaling-stroke"
+      cx="139.899"
+      cy="20.4"
+      rx="11.7"
+      ry="20.4"
+      id="firefly_svg__antenna_left_end"
+      fill="#000"
+    ></ellipse>
+  </g>
+</svg>
